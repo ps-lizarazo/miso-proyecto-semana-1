@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe el bug**
 Descripción del bug.
 
 **Cómo reproducirlo**
-Steps to reproduce the behavior:
+Pasos para reproducirlo:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
